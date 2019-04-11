@@ -252,7 +252,7 @@ or
 module.exports = {
   markdown: {
     plugins: {
-      '@org/foo': {}
+      '@org/foo': {},
       'markdown-it-bar': {
         // provide options here
       }
